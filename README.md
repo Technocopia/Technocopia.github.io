@@ -7,7 +7,7 @@ http://technocopia.github.io/
 
 Build monitor:
 
-https://travis-ci.org/technocopia/technocopia.github.io
+https://travis-ci.org/Technocopia/Technocopia.github.io
 
 ## How this thing works ##
 * The content directory will become the root of the website.
