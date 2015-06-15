@@ -3,7 +3,7 @@ technocopia.github.io
 
 The Website for the Bowler System
 
-http://technocopia.github.io/
+http://wiki.technocopia.org/
 
 Build monitor:
 
