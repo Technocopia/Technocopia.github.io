@@ -11,8 +11,8 @@ destination: ../nrsite/
 # repo defaults to USERNAME.github.io
 # Branch defaults to "source" for USERNAME.github.io
 # or "master" otherwise
-username: NeuronRobotics
-repo: NeuronRobotics.github.io
+username: Technocopia
+repo: Technocopia.github.io
 branch: source
 permalink: /:categories/:title
 gems: [jekyll-category-aware-prev-next]
