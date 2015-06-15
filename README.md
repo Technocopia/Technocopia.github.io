@@ -10,6 +10,8 @@ Build monitor:
 https://travis-ci.org/Technocopia/Technocopia.github.io
 
 ## How this thing works ##
+* the landing page is in layouts/landing.html and can be edited at:
+  - https://github.com/Technocopia/Technocopia.github.io/edit/source/layouts/landing.html
 * The content directory will become the root of the website.
   - content/foo.md will become http://domain.com/foo/
   - content/folder/thing.md will become http://domain.com/folder/thing/
