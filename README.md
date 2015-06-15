@@ -1,13 +1,13 @@
-NeuronRobotics.github.io
+technocopia.github.io
 ========================
 
 The Website for the Bowler System
 
-http://neuronrobotics.github.io/
+http://technocopia.github.io/
 
 Build monitor:
 
-https://travis-ci.org/NeuronRobotics/NeuronRobotics.github.io
+https://travis-ci.org/technocopia/technocopia.github.io
 
 ## How this thing works ##
 * The content directory will become the root of the website.
@@ -122,8 +122,8 @@ menuname: "Home"
 On the new landing page the download links come from the frontmatter in the `index.md` file.
 Update them by comitting a new index.md file with updated links to this repo.
 ```
-winInstaller: "https://github.com/NeuronRobotics/BowlerStudio/releases/download/*.*.*/Windows-nrdk-*.*.*.exe"
-linInstaller: "https://github.com/NeuronRobotics/BowlerStudio/releases/download/*.*.*/Ubuntu-nrdk-*.*.*.deb"
-macInstaller: "https://github.com/NeuronRobotics/BowlerStudio/releases/download/*.*.*/MacOSX-nrdk-*.*.*.zip"
+winInstaller: "https://github.com/technocopia/BowlerStudio/releases/download/*.*.*/Windows-nrdk-*.*.*.exe"
+linInstaller: "https://github.com/technocopia/BowlerStudio/releases/download/*.*.*/Ubuntu-nrdk-*.*.*.deb"
+macInstaller: "https://github.com/technocopia/BowlerStudio/releases/download/*.*.*/MacOSX-nrdk-*.*.*.zip"
 ```
 
