@@ -7,8 +7,6 @@ http://wiki.technocopia.org/
 
 Build monitor:
 
-https://travis-ci.org/Technocopia/Technocopia.github.io
-
 [![Build Status](https://travis-ci.org/Technocopia/Technocopia.github.io.svg?branch=source)](https://travis-ci.org/Technocopia/Technocopia.github.io)
 
 ## How this thing works ##
