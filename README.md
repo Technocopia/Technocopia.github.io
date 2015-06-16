@@ -3,11 +3,13 @@ technocopia.github.io
 
 The Website for the Bowler System
 
-http://technocopia.github.io/
+http://wiki.technocopia.org/
 
 Build monitor:
 
 https://travis-ci.org/Technocopia/Technocopia.github.io
+
+[![Build Status](https://travis-ci.org/Technocopia/Technocopia.github.io.svg?branch=source)](https://travis-ci.org/Technocopia/Technocopia.github.io)
 
 ## How this thing works ##
 * the landing page is in layouts/landing.html and can be edited at:
