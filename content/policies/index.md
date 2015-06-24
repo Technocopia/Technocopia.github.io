@@ -1,5 +1,5 @@
 ---
-title: Tool Certifications
+title: Policies
 tutorial: true
 ordering: 2
 image: policiesthumb.JPG
