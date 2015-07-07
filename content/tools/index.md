@@ -1,5 +1,5 @@
 ---
-title: Tool Certifications
+title: Tools
 tutorial: true
 ordering: 2
 image: toolcertthumb.JPG
