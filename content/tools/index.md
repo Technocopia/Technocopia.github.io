@@ -6,4 +6,4 @@ image: toolcertthumb.JPG
 layout: post
 ---
 
-Schedule tool certs to use our equipment
+Info on shop equipment and tool training
