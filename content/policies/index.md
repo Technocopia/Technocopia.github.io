@@ -2,7 +2,7 @@
 title: Policies
 tutorial: true
 ordering: 2
-image: policiesthumb.JPG
+image: policiespic.JPG
 layout: post
 ---
 

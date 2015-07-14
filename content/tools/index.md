@@ -2,7 +2,7 @@
 title: Tools
 tutorial: true
 ordering: 2
-image: toolcertthumb.JPG
+image: toolspic.JPG
 layout: post
 ---
 
