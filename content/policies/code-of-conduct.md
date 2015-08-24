@@ -11,7 +11,7 @@ layout: post
 0. Do nothing that would require the creation of a new rule. You will be held accountable for breaking “common sense” rules, even if they are not on the list. When in doubt, ask.  
 1. Respect all people, equipment and space.
 2. Act, at all times, in a safe, polite and professional manner.
-3. Adhere to the following dress code:
+3. Adhere to the following dress code
   a. FOOTWEAR Steel toe boots are recommended. Soft soles and stable platforms provide the most secure footing. No high heels or open-toed shoes.
   b. CLOTHING Nothing on your person should hang away from the body. Long pants will protect you from debris and are highly recommended.
   c. JEWELRY Studs on the ears and face are fine. Bracelets, rings, necklaces, and watches should be avoided.
