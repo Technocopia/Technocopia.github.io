@@ -4,7 +4,7 @@ step: 2
 layout: post
 ---
 
-#Financial Policies# 
+##Financial Policies## 
 
 A. General Principles 
 

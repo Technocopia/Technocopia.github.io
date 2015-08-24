@@ -4,7 +4,7 @@ step: 2
 layout: post
 ---
 
-#Technocopia Code of Conduct Agreement#
+##Technocopia Code of Conduct Agreement##
 
 **Breaking any of the following rules will result in loss of privileges, or ejection from space.**
 
