@@ -6,7 +6,7 @@ layout: post
 
 #Technocopia Code of Conduct Agreement#
 
-Breaking any of the following rules will result in loss of privileges, or ejection from space.
+###Breaking any of the following rules will result in loss of privileges, or ejection from space.###
 
 0. Do nothing that would require the creation of a new rule.  You will be held accountable for breaking “common sense” rules, even if they are not on the list.  When in doubt, ask.  
 1. Respect all people, equipment and space.
