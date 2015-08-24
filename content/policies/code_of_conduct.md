@@ -1,6 +1,6 @@
 ---
 title: Code of Conduct
-step: 1
+step: 2
 layout: post
 ---
 
