@@ -12,7 +12,7 @@ layout: post
 	- To protect children from abuse and neglect. 
 
 2. **Definitions**
-Under this Policy, the abuse and neglect of a child (i.e., any individual under the age of eighteen (18) years) is defined as follows:	
+  Under this Policy, the abuse and neglect of a child (i.e., any individual under the age of eighteen (18) years) is defined as follows:	
 	- Physical  injury not necessarily visible of a child under circumstances that indicate that a child’s health or welfare is harmed or at substantial risk of being harmed
 	- The observable, identifiable, and substantial impairment of a child’s mental or psychological ability to function
 	- The failure to provide proper care and attention to a child, including leaving a child unattended, under circumstances that indicate that the child’s health or welfare is harmed or placed at  substantial risk of harm
