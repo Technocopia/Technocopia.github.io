@@ -35,9 +35,7 @@ layout: post
 		Fax (508) 754 9803
 		Child-At-Risk Hotline: 1 800 792 5200
 
-4. **Contents of Written Report**
-
-As far as is reasonably possible, an oral or written report made under this Policy shall include the following information:
+4. **Contents of Written Report** - As far as is reasonably possible, an oral or written report made under this Policy shall include the following information:
   - the name, age, and home address of the child 
   - the name and home address of the child’s parent or other person responsible for the child's care	 
   - the whereabouts of the child	 
@@ -48,5 +46,4 @@ Further information on such reporting can be found at:
 http://www.mass.gov/eohhs/gov/departments/dcf/child-abuse-neglect/reporting-abuse.html
 
 5. **Immunity**
-6. 
 Any person who in good faith makes or participates in making a report of abuse or neglect or participates in an investigation or a resulting judicial proceeding is immune by state law from any civil liability or criminal penalty that would otherwise result from making or participating in a report of abuse or neglect or participating in an investigation or a resulting judicial proceeding.
