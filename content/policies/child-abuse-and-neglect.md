@@ -7,6 +7,7 @@ layout: post
 ##Child Abuse and Neglect Policy##
 
 1. **Purpose**	
+
   - To inform all members and staff of Technocopia of the requirement to report suspected child abuse (including sexual abuse) or neglect and to inform staff of their immunity from civil liability or criminal penalty for reporting.
   - To establish procedures to be used by all staff of Technocopia in making oral and written reports to the appropriate authorities of suspected cases of child abuse or neglect.	 
   - To protect children from abuse and neglect. 
