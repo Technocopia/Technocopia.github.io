@@ -19,7 +19,7 @@ layout: post
 
 	Treasurer Role: The Treasurer is authorized to act on the Board's behalf on financial matters when action 	is required in advance of a meeting of the Board of Directors. Any actions taken by the Treasurer shall be 		reported via email to the Board and noted at the board meeting. Each month the Treasurer shall review 	each of the organization’s bank statements. 
 
-3. Staff Responsibilities 
+3. **Staff Responsibilities** 
 
 	Executive Director Role: The Executive Director shall ensure that the assets of Technocopia are adequately 	protected and maintained. The Executive Director ensures that sound bookkeeping and accounting procedures are 	followed and controls in place. The Executive Director shall avoid actions that would expose the organization, 		its Board, or staff to claims of liability. The Executive Director shall ensure that the organization 			complies with all rules, regulations and laws regarding reporting, taxation and withholding 			payments. 
 
@@ -27,12 +27,12 @@ layout: post
 
 	Reporting: With any appropriate staff, the Executive Director provides the Board with comprehensive 			reports no less than quarterly on the revenues and expenditures of the organization including but 		not limited to balance sheet, budget versus actual profit and loss by month and quarter, fundraising 		project reports, and program service reports. 
 
-**Executive Director Authority and Items Needing Board Approval:**
+	**Executive Director Authority and Items Needing Board Approval:**
 
-  - Expenditures: The Executive Director is authorized to approve expenditures within the parameters of the overall approved budget, reporting to the Treasurer and/or Board of Directors on variances and the reason for these variances. The Board of Directors must approve any expenditure or contract outside of the approved Annual Budget.
-  - Contracts: The Executive Director is authorized to enter into contracts for activities that have been approved by the Board as a part of budgets or plans. The Board of Directors must authorize any contracts outside of these parameters. All equipment leases and all contracts with a financial value greater than $5,000 require Board approval. Any item to be purchased by Technocopia which exceeds $5,000, including professional services, requires that Management investigate at least 3 different sources for such products or services and contract.
-  - Check Signing: The Executive Director is authorized to sign checks up to $2,500 and checks for routine expenses such as rent, utilities, and recurring instructor compensation. Other checks for amounts greater than $2,500 shall require the signature of the Treasurer or Board Chair.
-  - Credit: With approval from the Board, the Executive Director may open a credit card account for purchases within the approved budget. Card balances will be paid off each billing cycle. Individual invoices for each charge shall be maintained for all credit card purchases. Vendor credit accounts are to be limited to prudent levels and submitted monthly for review by the Treasurer.
+	- Expenditures: The Executive Director is authorized to approve expenditures within the parameters of the overall approved budget, reporting to the Treasurer and/or Board of Directors on variances and the reason for these variances. The Board of Directors must approve any expenditure or contract outside of the approved Annual Budget.
+	- Contracts: The Executive Director is authorized to enter into contracts for activities that have been approved by the Board as a part of budgets or plans. The Board of Directors must authorize any contracts outside of these parameters. All equipment leases and all contracts with a financial value greater than $5,000 require Board approval. Any item to be purchased by Technocopia which exceeds $5,000, including professional services, requires that Management investigate at least 3 different sources for such products or services and contract.
+	- Check Signing: The Executive Director is authorized to sign checks up to $2,500 and checks for routine expenses such as rent, utilities, and recurring instructor compensation. Other checks for amounts greater than $2,500 shall require the signature of the Treasurer or Board Chair.
+	- Credit: With approval from the Board, the Executive Director may open a credit card account for purchases within the approved budget. Card balances will be paid off each billing cycle. Individual invoices for each charge shall be maintained for all credit card purchases. Vendor credit accounts are to be limited to prudent levels and submitted monthly for review by the Treasurer.
 
 4. **Staff Day-to-Day Operations** 
 
