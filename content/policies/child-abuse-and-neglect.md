@@ -20,11 +20,13 @@ layout: post
 3. **Who Must Report** - Any member or staff of Technocopia who has reason to believe that a child has been subjected to abuse (including sexual abuse) or neglect (the “Reporter”) caused by any parent, guardian, adoptive parent or other person who has permanent or temporary care or custody or responsibility for the supervision of such child (including Technocopia staff), or any household or family member of such child, shall make a report as directed below. A Technocopia member or staff person must act on the basis of any information and belief. The law gives the Reporter very little latitude.
   1. The Reporter must immediately notify and give all information required below to Technocopia's Executive Director, or the next available administrative staff. If an administrative staff is not immediately available, the Reporter must proceed to step 2.
   2. After notifying the Head or Designee, the Reporter, along with the notified staff, must make 	an oral report (by telephone or direct communication) as soon as possible to the local law enforcement agency. Contact information is as follows:
+
 	Worcester Police Department
 	9 – 11 Lincoln Sq.
 	Worcester, MA 01608
 	Ph: 508 799 8600	
-  3. The Reporter must also make a written report to the local Department of 	Children and Families not later than forty-eight (48) hours after 	the contact, examination, attention, or treatment that caused the Reporter to believe that the child had been subjected to abuse (including sexual abuse) or neglect. The written report must be signed either (i) by the Reporter or (ii) by the Reporter and the consulting administrative staff. Contact information is as follows: 
+  3. The Reporter must also make a written report to the local Department of 	Children and Families not later than forty-eight (48) hours after 	the contact, examination, attention, or treatment that caused the Reporter to believe that the child had been subjected to abuse (including sexual abuse) or neglect. The written report must be signed either (i) by the Reporter or (ii) by the Reporter and the consulting administrative staff. Contact information is as follows:
+
 	DCF Worcester East Area Office
 	151 West Boylston Drive
 	Worcester, MA 01606
