@@ -41,7 +41,7 @@ layout: post
   - the nature and extent of the abuse or neglect of the child, including any evidence or information available to the Reporter concerning possible previous instances of abuse or neglect 
   - any other information that would help to determine (i) the cause of the suspected abuse or neglect; and (ii) the identity of any individual responsible for the abuse or neglect 
 	
-Further information on such reporting can be found at:
-http://www.mass.gov/eohhs/gov/departments/dcf/child-abuse-neglect/reporting-abuse.html
+	Further information on such reporting can be found at:
+	http://www.mass.gov/eohhs/gov/departments/dcf/child-abuse-neglect/reporting-abuse.html
 
 5. **Immunity** - Any person who in good faith makes or participates in making a report of abuse or neglect or participates in an investigation or a resulting judicial proceeding is immune by state law from any civil liability or criminal penalty that would otherwise result from making or participating in a report of abuse or neglect or participating in an investigation or a resulting judicial proceeding.
