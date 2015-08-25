@@ -9,7 +9,8 @@ layout: post
 1. **General Principles** 
 
 All policies stated herein shall always be subject to and subordinate to applicable laws, specifically including local, state and federal laws as amended and in effect. 
-2. **Board of Directors Responsibilities** 
+2. **Board of Directors Responsibilities**
+
 	Conflicts of Interest: Board members and all staff comply with Technocopia Conflict of Interest policy. 		Any board member who has any financial involvement whatsoever with Technocopia shall declare and 		make full disclosure of such dealings with Technocopia. Any Technocopia Board member who has any 		financial interest in, or any dealings with Technocopia must abstain from any votes regarding such 		business. All board members and the Executive Director shall complete, no less than annually, the Conflict 	of Interest Disclosure Form and Related Party Questionnaire. 
 
 Review of Financials: The Board will meet at least quarterly to review and discuss Technocopia’s financials including balance sheet, budget versus actual profit and loss, fundraising project reports, and program service reports. 
