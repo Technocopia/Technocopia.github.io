@@ -33,9 +33,10 @@ layout: post
 	- Contracts: The Executive Director is authorized to enter into contracts for activities that have been approved by the Board as a part of budgets or plans. The Board of Directors must authorize any contracts outside of these parameters. All equipment leases and all contracts with a financial value greater than $5,000 require Board approval. Any item to be purchased by Technocopia which exceeds $5,000, including professional services, requires that Management investigate at least 3 different sources for such products or services and contract.
 	- Check Signing: The Executive Director is authorized to sign checks up to $2,500 and checks for routine expenses such as rent, utilities, and recurring instructor compensation. Other checks for amounts greater than $2,500 shall require the signature of the Treasurer or Board Chair.
 	- Credit: With approval from the Board, the Executive Director may open a credit card account for purchases within the approved budget. Card balances will be paid off each billing cycle. Individual invoices for each charge shall be maintained for all credit card purchases. Vendor credit accounts are to be limited to prudent levels and submitted monthly for review by the Treasurer.
+
 4. **Staff Day-to-Day Operations** 
 
-Staff shall maintain a detailed Master Chart of Accounts for the tracking of all Technocopia’s payables and receivables. 
+	Staff shall maintain a detailed Master Chart of Accounts for the tracking of all Technocopia’s payables and receivables. 
 
 Technocopia’s day-to-day financial operations shall be compiled in the office on the accrual basis. The records must be supported by source documentation such as cancelled checks, invoices, contracts, travel reports, donor letters, in-kind contribution reports and personnel activity reports. All deposits will be tracked by maintaining copies of deposit slips, checks and bank deposit receipts. 
 
