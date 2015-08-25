@@ -4,8 +4,8 @@ step: 2
 layout: post
 ---
 
-##Conflict of Interest Policy##	
-								
+##Conflict of Interest Policy##
+
 The purpose of this conflict-of-interest policy is to prevent the institutional or personal interests of Technocopia’s board members, officers, and staff from interfering with the performance of their duties to Technocopia and to ensure that there is no personal, professional, or political gain at the expense of Technocopia. This policy is not designed to eliminate relationships and activities that may create a duality of interest, but to require the disclosure of any conflicts of interest and the recusal of any interested party in a decision relating thereto.
 					
 A conflict of interest may exist when the interests or potential interests of any director, officer, or staff member, or that person’s close relative, or any individual, group, or organization to which the person associated with Technocopia has allegiance, may be seen as competing with the interests of Technocopia, or may impair such person’s independence or loyalty to Technocopia. A conflict of interest is defined as an interest that might affect, or might reasonably appear to affect, the judgment or conduct of any director, officer, or staff member in a manner that is adverse to the interests of Technocopia.
