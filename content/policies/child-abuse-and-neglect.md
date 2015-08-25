@@ -17,11 +17,9 @@ layout: post
   - The failure to provide proper care and attention to a child, including leaving a child unattended, under circumstances that indicate that the child’s health or welfare is harmed or placed at  substantial risk of harm
   - Any act that involves sexual molestation or exploitation of a child (i.e., any sexual contact or conduct with a child) regardless of whether the child has physical injuries 
 
-3. **Who Must Report**
-
-Any member or staff of Technocopia who has reason to believe that a child has been subjected to abuse (including sexual abuse) or neglect (the “Reporter”) caused by any parent, guardian, adoptive parent or other person who has permanent or temporary care or custody or responsibility for the supervision of such child (including Technocopia staff), or any household or family member of such child, shall make a report as directed below. A Technocopia member or staff person must act on the basis of any information and belief. The law gives the Reporter very little latitude.
-  1. The Reporter must immediately notify and give all information required below to Technocopia's Executive Director, or the next available administrative staff. If an administrative staff is not immediately available, the Reporter must proceed to step 2. 
-  2. After notifying the Head or Designee, the Reporter, along with the notified staff, must make 	an oral report (by telephone or direct communication) as soon as possible to the local law enforcement agency. Contact information is as follows: 
+3. **Who Must Report** - Any member or staff of Technocopia who has reason to believe that a child has been subjected to abuse (including sexual abuse) or neglect (the “Reporter”) caused by any parent, guardian, adoptive parent or other person who has permanent or temporary care or custody or responsibility for the supervision of such child (including Technocopia staff), or any household or family member of such child, shall make a report as directed below. A Technocopia member or staff person must act on the basis of any information and belief. The law gives the Reporter very little latitude.
+  1. The Reporter must immediately notify and give all information required below to Technocopia's Executive Director, or the next available administrative staff. If an administrative staff is not immediately available, the Reporter must proceed to step 2.
+  2. After notifying the Head or Designee, the Reporter, along with the notified staff, must make 	an oral report (by telephone or direct communication) as soon as possible to the local law enforcement agency. Contact information is as follows:
 	
 		Worcester Police Department
 		9 – 11 Lincoln Sq.
