@@ -62,7 +62,7 @@ layout: post
 
 	An annual inventory shall maintain a record of all owned and leased assets along with depreciation 			schedule. The inventory shall detail item specifications, source and date of acquisition, valuation, 	condition at date of receipt and current condition, and other relevant information. 
 
-5. Purchasing 
+5. **Purchasing** 
 
 	Any item to be purchased by Technocopia which exceeds $5,000, including professional services, requires 		that Management investigate at least 3 different sources for such products or services. 
 
