@@ -62,7 +62,7 @@ A formal Financial Review by an appropriately licensed consultant will be conduc
 
 An annual inventory shall maintain a record of all owned and leased assets along with depreciation schedule. The inventory shall detail item specifications, source and date of acquisition, valuation, condition at date of receipt and current condition, and other relevant information. 
 
-E. Purchasing 
+5. Purchasing 
 
 Any item to be purchased by Technocopia which exceeds $5,000, including professional services, requires that Management investigate at least 3 different sources for such products or services. 
 
@@ -75,13 +75,13 @@ Staff shall maintain a purchase order system and records that provides verificat
 	•	Upon delivery, items shall be immediately inspected by designated staff with packing list verified and submitted to designated staff. 
 	•	Vendor Invoice compared to packing lists.
 	
-5. **Expense Reimbursement**
+6. **Expense Reimbursement**
 
 All expenses related to the organization should, wherever possible, be paid directly to vendors. On occasion, staff, Board members, and other volunteers may accrue out-of-pocket expenses related to the activities of Technocopia within the board approved budget. Appropriate receipts must be submitted. Reimbursement must be reviewed and approved by the Treasurer or Executive Director. For any reimbursement, checks may not be signed by the payor. 
 
 Board members are expected to bear all costs, including those travel-related, associated with attending meetings and conducting any other governance responsibilities. On some occasions, when a board member is unable to bear such costs, in whole or in part, for extraordinary expenses such as attending conferences, reimbursement for travel or attendance fees may be approved by the Board of Directors. 
 
-6. **Contributions and In-Kind Gifts** 
+7. **Contributions and In-Kind Gifts** 
 
 All donors will be listed with contact information and contributions tracked. Donations will be publicly acknowledged in Technocopia’s materials as appropriate. 
 
@@ -89,7 +89,7 @@ Donors will receive acknowledgement in a timely and appropriate manner.
 
 Technocopia may accept contributions of goods or services other than cash that are related to the programs and operations of Technocopia with the approval of the Executive Director. Goods not related to the programs and operations of Technocopia as well as non-cash items such as stock must be reviewed and approved by the Board of Directors before acceptance. Recording the value of the contribution shall be consistent and in compliance with accounting standards. 
 
-7. **Assets, Donated and Leased Equipment** 
+8. **Assets, Donated and Leased Equipment** 
 
 All purchases or donations of equipment over $500 shall be capitalized and recorded as assets. 
 
@@ -99,7 +99,7 @@ Acceptance of donated and leased equipment relevant to Technocopia’s operation
 
 Depreciation of capital assets will not exceed seven years for furniture and equipment or three years for computer and other technology equipment. Any equipment, furnishings, and other assets deemed to be no longer usable by Technocopia shall be designated as surplus with the approval of the Board of Directors. Surplus items that have a market value shall be used for trade-in or for sale. Whenever possible items without tangible value shall be recycled. Items designated as surplus shall be documented in the organization’s inventory. 
 
-8. **Fiscal Calendar** 
+9. **Fiscal Calendar** 
 
 The fiscal year of Technocopia is July 1 through June 30. The annual budget shall be approved no later than 45 day from the end of the previous fiscal year. As part of the annual budgeting process the board shall review the ranges of staff compensation and the salary and performance of the Executive Director.
 
