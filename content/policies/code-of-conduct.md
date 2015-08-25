@@ -8,16 +8,16 @@ layout: post
 
 **Breaking any of the following rules will result in loss of privileges, or ejection from space.**
 
-0. Do nothing that would require the creation of a new rule. You will be held accountable for breaking “common sense” rules, even if they are not on the list. When in doubt, ask.  
+0. Do nothing that would require the creation of a new rule. You will be held accountable for breaking “common sense” rules, even if they are not on the list. When in doubt, ask.
 1. Respect all people, equipment and space.
 2. Act, at all times, in a safe, polite and professional manner.
 3. Adhere to the following dress code:
-  a. FOOTWEAR Steel toe boots are recommended. Soft soles and stable platforms provide the most secure footing. No high heels or open-toed shoes.
-  b. CLOTHING Nothing on your person should hang away from the body. Long pants will protect you from debris and are highly recommended.
-  c. JEWELRY Studs on the ears and face are fine. Bracelets, rings, necklaces, and watches should be avoided.
+  - FOOTWEAR: Steel toe boots are recommended. Soft soles and stable platforms provide the most secure footing. No high heels or open-toed shoes.
+  - CLOTHING: Nothing on your person should hang away from the body. Long pants will protect you from debris and are highly recommended.
+  - JEWELRY: Studs on the ears and face are fine. Bracelets, rings, necklaces, and watches should be avoided.
 4. Personal protective equipment should be worn while near or using tools and machinery.
-5. Clean up after yourself.  Always leave ample time to clean up.  
-  a. Anything that is left out overnight will be considered donated for scrap.
+5. Clean up after yourself.  Always leave ample time to clean up.
+  - Anything that is left out overnight will be considered donated for scrap.
 6. Notify staff of any problem with the facility, machines, or other members ASAP.
 7. Do not attempt maintenance or repair work on running equipment alone. Contact the staff.
 8. Do not use equipment you are not authorized to use, trained on, and comfortable using.
