@@ -34,7 +34,7 @@ layout: post
 	- Check Signing: The Executive Director is authorized to sign checks up to $2,500 and checks for routine expenses such as rent, utilities, and recurring instructor compensation. Other checks for amounts greater than $2,500 shall require the signature of the Treasurer or Board Chair.
 	- Credit: With approval from the Board, the Executive Director may open a credit card account for purchases within the approved budget. Card balances will be paid off each billing cycle. Individual invoices for each charge shall be maintained for all credit card purchases. Vendor credit accounts are to be limited to prudent levels and submitted monthly for review by the Treasurer.
 
-4. **Staff Day-to-Day Operations** 
+  4. **Staff Day-to-Day Operations** 
 
 Staff shall maintain a detailed Master Chart of Accounts for the tracking of all Technocopia’s payables and receivables. 
 
