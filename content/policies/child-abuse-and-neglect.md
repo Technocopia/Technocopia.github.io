@@ -11,13 +11,10 @@ layout: post
   - To establish procedures to be used by all staff of Technocopia in making oral and written reports to the appropriate authorities of suspected cases of child abuse or neglect.	 
   - To protect children from abuse and neglect. 
 
-2. **Definitions**
-
-Under this Policy, the abuse and neglect of a child (i.e., any individual under the age of eighteen (18) years) is defined as follows:	
-
-	- Physical  injury not necessarily visible of a child under circumstances that indicate that a child’s health or welfare is harmed or at substantial risk of being harmed
-	- The observable, identifiable, and substantial impairment of a child’s mental or psychological ability to function
-	- The failure to provide proper care and attention to a child, including leaving a child unattended, under circumstances that indicate that the child’s health or welfare is harmed or placed at  substantial risk of harm
+2. **Definitions** - Under this Policy, the abuse and neglect of a child (i.e., any individual under the age of eighteen (18) years) is defined as follows:	
+  - Physical  injury not necessarily visible of a child under circumstances that indicate that a child’s health or welfare is harmed or at substantial risk of being harmed
+  - The observable, identifiable, and substantial impairment of a child’s mental or psychological ability to function
+  - The failure to provide proper care and attention to a child, including leaving a child unattended, under circumstances that indicate that the child’s health or welfare is harmed or placed at  substantial risk of harm
   - Any act that involves sexual molestation or exploitation of a child (i.e., any sexual contact or conduct with a child) regardless of whether the child has physical injuries 
 
 3. **Who Must Report**
